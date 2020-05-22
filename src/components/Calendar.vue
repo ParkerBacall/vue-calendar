@@ -82,7 +82,7 @@ export default {
     selectedElement: null,
     selectedOpen: false,
     events: [],
-    dialog: false
+    dialog: false,
   })
 }
 </script>
